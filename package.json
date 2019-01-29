@@ -5,10 +5,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jjwilly16/node-pdftk.git"
+    "url": "https://github.com/newhippo/node-pdftk.git"
   },
   "bugs": {
-    "url": "https://github.com/jjwilly16/node-pdftk/issues"
+    "url": "https://github.com/newhippo/node-pdftk/issues"
   },
   "scripts": {
     "pretest": "npm run clean && node pretest",
